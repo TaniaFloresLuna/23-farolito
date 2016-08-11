@@ -1,0 +1,279 @@
+	/*Inicio*/
+header
+	{
+	background: url("../img/img-home.png");
+	width: 100%;
+	height: 720px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+div ul{
+	list-style-type: none;
+	margin-left: 60%;
+}
+#bott{
+	float: right;
+	clear: both;
+}
+ul li{
+	display: inline-block;
+	color: #989898;
+	margin-top: 5%;
+	margin-bottom: 35%;
+}
+.botgri{
+	color: white;
+	background-color: #4d4545;
+}
+.logo{
+	float: right;
+	margin-bottom: 10%;
+}
+.pazul{
+	float: right;
+	font-size: 2em;
+	line-height: 1.5;
+	margin-right: -10%;
+	padding-bottom: 5%;
+}
+.pgris{
+	float: right;
+	line-height: 1.5;
+	font-size: 1em;
+	margin-right: -45%;
+	margin-top: 15%;
+}
+.botna{
+	color: white;
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 30%;
+	height: 70px;
+	float: right;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-right: -4%;
+}
+
+	/*metodologia*/
+.metodologia{
+	font-size: 1.5em;
+	margin-bottom: 5%;
+}
+.circulo{
+	border-radius: 50%;
+	width: 400px;
+	height: 400px;
+	display: block;
+	margin-left: 30%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	color: white;
+	background-color: #ff6a49;
+}
+.borde{
+	border-radius: 50%;
+	border:5px white dashed;
+	width: 350px;
+	height: 350px;
+	display: block;
+	margin: auto;
+	margin-top: 7%;
+	padding-top: 15%;
+	line-height: 1.5;
+	font-size: 1;	
+}
+.cpd{
+	line-height: 2;
+	padding: 2%;
+}
+.diagon{
+	position: absolute;
+	border-top: 5px dashed red;
+}
+.two{
+	width: 30%;
+  	transform: rotate(60deg);
+  	margin-top: -25%;
+  	margin-left: 65%;
+}
+.one{
+	width: 30%;
+  	transform: rotate(120deg);
+  	margin-top: 35%;
+  }
+ .rj{
+ 	width: 8%;
+ 	transform: rotate(90deg);
+ 	margin-left: 15%;
+ 	margin-top: 9%; 
+ }
+.botazu{
+	background-color: #28c5e6;
+	color: white;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	width: 30%;
+	height: 70px;
+	font-size: 1em;
+}
+.up{
+	margin-top: -8%;
+}
+.uno{
+	margin-left: -5%;
+}
+.dos{
+	margin-left: 5%;
+}
+
+	/*postulantes*/
+.postulantes{
+	background-color: #28c5e6;
+	width: 100%;
+	height: 100%;
+	background-size: 100% 100%;
+	color: white;
+	line-height: 1.5;
+}	
+.num{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	margin-top: 10%;
+}
+.rabla{
+	border-bottom: dashed 2px white;
+	margin-top: 8%;
+	padding-bottom: 5%;
+}
+.bl{
+	width: 1px;
+	height: 5%;
+	position: absolute;
+	border: 2px dashed white;
+	margin-left: 10%;
+}
+
+	/*empresas*/
+.rana{
+	border-bottom: dashed 2px #ff6a49;
+	padding-bottom:5%;
+}
+.botnar{
+	color: white;
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+}
+	/*centro educativo*/
+.educativo{
+	background-color: #77d248;
+	width: 100%;
+	height: 100%;
+	color: white;
+}
+.raba{
+	border-bottom: dashed 2px white;
+	padding-bottom:5%;
+}
+.botbla{
+	color: white;
+	font-size: 1em;
+	background-color: #77d248;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+	border:white solid;
+}
+	/*lista de oportunidades*/
+.oportunidades{
+	background:url("../img/img-03.png");
+	width: 100%;
+	height: 1200px;
+	background-size: 100% 100%;
+}
+.razu{
+	border-bottom: solid 2px #28c5e6;
+	padding-bottom:3%;
+	text-align: left;
+	margin-left: 30%;
+	margin-top: 3%;
+}
+.oferta{
+	text-align: left;
+	margin-left: 30%;
+	color: #989898;
+	line-height: 1.5;
+}
+.cuana{
+	color: #ff6a49;
+	width: 100px;
+	height: 50px;
+	border:solid #ff6a49;
+	text-align: center;
+	border-radius: 20%;
+	padding: 3%;
+	margin-top: 40%;
+}
+.ragris{
+	border-bottom: dashed 1px #989898;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+	/*blog*/
+.cuama{
+	width: 250px;
+	height: 200px;
+	background-color: #ffc200;
+	color: white;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}	
+.cuagri{
+	width: 250px;
+	height: 200px;
+	background-color: #4d4545;
+	color: #989898;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}
+	/*Consulta*/
+.consulta{
+	background-color: #989898;
+	width: 100%;
+	height: 500px;
+	color: #4d4545;
+}	
+input{
+	width: 32%;
+	height: 30px;
+	display: block;
+	margin: auto;
+}
+textarea{
+	resize:none;
+	display: block;
+	margin: auto;
+}
+	/*footer*/
+footer{
+	background-color: #4d4545;
+	color: #989898;
+	width: 100%;
+	padding-top: 2%;
+}	
+.redes{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-left: 2%;
+}
